@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Divyendutiwari
+- Iam currently studying btech. from @NIT Silchar
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...from shraddha ma'm APNA COLLEGE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...email:- divyendutiwari13@gmail.com Insta:-divyendu_tiwari12
+- 📫 How to reach me ...email:- divyendutiwari13@gmail.com Insta:- divyendu_tiwari12
 
 <!---
 Divyendutiwari/Divyendutiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
