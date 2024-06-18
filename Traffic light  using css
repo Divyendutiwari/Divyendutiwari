@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="tl.css">
+</head>
+<body>
+    <div class="a">
+        <div class="b"></div>
+        <div class="c"></div>
+        <div class="d"></div>
+    </div>
+</body>
+</html>
+
+
+# and here comes the css part!!
+
+
+.a{
+    height:200px;
+    width:70px;
+    border: 2px solid black;
+    background-color: beige;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: red;
+
+}
+.c{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(202, 172, 25);
+
+}
+.d{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(23, 175, 86);
+
+}
