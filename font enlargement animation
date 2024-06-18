@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"  href="animation.css">
+</head>
+<body>
+    <h1>Animation</h1>
+    <div class="box">Killing is good</div>
+</body>
+</html>
+
+
+
+
+
+
+.box{
+    height: 100px;
+    width:300px;
+    background-color: bisque;
+    border: 5px solid black;
+    animation-name: myanimation;
+    animation-duration: 3s;
+    animation-delay: 0;
+    animation-timing-function: ease-in;
+    animation-direction: normal;
+    animation-iteration-count: 5;
+}
+@keyframes myanimation{
+    from{
+        font-size: 20px;
+    }
+    to{
+        font-size: 40px;
+    }
+}
