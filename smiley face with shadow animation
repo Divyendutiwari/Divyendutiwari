@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="smily.css">
+</head>
+<body>
+    <div class="face">
+            <div class="eye1">
+
+            </div>
+            <div class="eye2">
+
+            </div>
+            
+            <div class="mouth">
+
+            </div>
+        </div>
+
+    
+</body>
+</html>
+
+
+And here comes the main css part!!!
+
+
+
+.face{
+    height: 400px;
+    width: 400px;
+    background-color: yellow;
+    border: 7px solid red;
+    border-radius: 50%;
+    transition: 2s;
+    
+}
+.eye1,.eye2{
+    height: 50px;
+    width: 50px;
+    border: 7px solid violet;
+    background-color: black;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    
+}
+.eye2{
+   position: absolute;
+   top: 100px;
+   left:100px;
+   transition: 2s;
+}
+.eye1{
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    transition: 2s;
+ }
+
+.mouth{
+      width: 200px;
+      height: 70px;
+      background-color: brown;
+      position: absolute;
+      top: 240px;
+      left: 100px;
+      border: 2px solid brown;
+      border-bottom-left-radius: 50px;
+      border-bottom-right-radius: 50px;
+
+}
+.face:hover{
+    box-shadow:4px 4px 10px green;
+}
+.eye1:hover,.eye2:hover{
+    box-shadow:4px 4px 10px green;
+}
