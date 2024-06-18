@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+    <p>you are &nbsp;a <i>fucking</i><b>sexy&hearts;</b>goofy child</p>
+    <h1>i</h1>
+    <h2>i</h2>
+    <h31>i</h31>
+    <hr>
+    <ul>
+        <li>fuck</li>
+        <li>suck</li>
+        <li>duck</li>
+        <li>luck</li>
+    </ul>
+    <hr>
+    <ol>
+        <li>lill</li>
+        <li>kill</li>
+        <li>pill</li>
+    </ol>
+    <hr>
+    <ol type="a">
+        <li>wax</li>
+        <li>tax</li>
+        <li>lax</li>
+        <li>max</li>
+        <li>krax</li>
+    </ol>
+    <hr>
+    <a href="https://www.google.com">just get it done</a>
+    <hr>
+    <img src="ghgg.png" alt="randi image">
+    <hr>
+    <table border="black">
+        <caption>kill anybody in path</caption>
+        <thead><tr>
+            <th colspan="2">item</th>
+            <th rowspan="2">price</th>
+        </tr>
+        <tr>
+            <th>INR</th>
+            <th>USD</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <tb>frooti</tb>
+            <tb>10.00</tb>
+            <tb>0.15</tb>
+        </tr>
+    </tbody>
+    </table>
+    <form action="fgh.html">
+        <label> name <input type="text" placeholder="write any fucking text"></label>
+        <label>dob<input type=date></label>
+        <label>password<input type="password" placeholder="just write your  password"></label>
+        <label for="io">kill</label>
+        <input id="io" type="time" placeholder="tell the current time">
+        <input name="age" type="checkbox" id="age">
+        <label for="age">i am 18+</label>
+        <label for="age">i am 18-</label>
+        <label for="volume">volume</label>
+        <input type="range" min="0" max="100"id=volume>
+        <div><button type="reset">Reset</button>
+            <button type="button">simple button</button></div>
+            <span>
+                <button type="submit">submit</button>
+            </span>
+ 
+    </form>
+    <hr>
+    <h1>enter any text to search on google </h1>
+    <form action="https://in.search.yahoo.com/search?">
+        <label for="fg">search whatever you want</label>
+        <input id="fg" type="text" name="p" placeholder="search whatever you want">
+        <button type="submit">submit</button>
+
+    </form>
+   
+</body>
+</html>
