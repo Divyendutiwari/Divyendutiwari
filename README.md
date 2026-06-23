@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🐍 My GitHub Contributions Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Divyendutiwari/Divyendutiwari/output/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Divyendutiwari/Divyendutiwari/output/dist/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Divyendutiwari/Divyendutiwari/output/dist/github-snake.svg">
+</picture>
 <!--
 **Divyendutiwari/Divyendutiwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
